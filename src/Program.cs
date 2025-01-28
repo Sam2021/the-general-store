@@ -4,8 +4,8 @@
     {
         int playerCoins = 6000;
         
-        int shirtPrice = 2500;
-        int helmetPrice = 3000;
+        int shirtPrice = 500;
+        int helmetPrice = 200;
         int foodPrice = 500;
         int presentPrice = 1000;
 
